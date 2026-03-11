@@ -1,0 +1,13 @@
+C:\!files\C#\Peremennye\Literaly\Literaly\bin\Debug\netcoreapp3.1\Literaly.exe
+C:\!files\C#\Peremennye\Literaly\Literaly\bin\Debug\netcoreapp3.1\Literaly.deps.json
+C:\!files\C#\Peremennye\Literaly\Literaly\bin\Debug\netcoreapp3.1\Literaly.runtimeconfig.json
+C:\!files\C#\Peremennye\Literaly\Literaly\bin\Debug\netcoreapp3.1\Literaly.runtimeconfig.dev.json
+C:\!files\C#\Peremennye\Literaly\Literaly\bin\Debug\netcoreapp3.1\Literaly.dll
+C:\!files\C#\Peremennye\Literaly\Literaly\bin\Debug\netcoreapp3.1\Literaly.pdb
+C:\!files\C#\Peremennye\Literaly\Literaly\obj\Debug\netcoreapp3.1\Literaly.csprojAssemblyReference.cache
+C:\!files\C#\Peremennye\Literaly\Literaly\obj\Debug\netcoreapp3.1\Literaly.AssemblyInfoInputs.cache
+C:\!files\C#\Peremennye\Literaly\Literaly\obj\Debug\netcoreapp3.1\Literaly.AssemblyInfo.cs
+C:\!files\C#\Peremennye\Literaly\Literaly\obj\Debug\netcoreapp3.1\Literaly.csproj.CoreCompileInputs.cache
+C:\!files\C#\Peremennye\Literaly\Literaly\obj\Debug\netcoreapp3.1\Literaly.dll
+C:\!files\C#\Peremennye\Literaly\Literaly\obj\Debug\netcoreapp3.1\Literaly.pdb
+C:\!files\C#\Peremennye\Literaly\Literaly\obj\Debug\netcoreapp3.1\Literaly.genruntimeconfig.cache
