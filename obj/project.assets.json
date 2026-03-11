@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\73831\\.nuget\\packages\\": {}
+    "C:\\Users\\izzig\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\!files\\C#\\Peremennye\\Literaly\\Literaly\\Literaly.csproj",
+      "projectUniqueName": "C:\\!files\\_C#\\Глава 1 и 2\\1_Условные конструкции\\3_Literaly\\Literaly\\Literaly.csproj",
       "projectName": "Literaly",
-      "projectPath": "C:\\!files\\C#\\Peremennye\\Literaly\\Literaly\\Literaly.csproj",
-      "packagesPath": "C:\\Users\\73831\\.nuget\\packages\\",
-      "outputPath": "C:\\!files\\C#\\Peremennye\\Literaly\\Literaly\\obj\\",
+      "projectPath": "C:\\!files\\_C#\\Глава 1 и 2\\1_Условные конструкции\\3_Literaly\\Literaly\\Literaly.csproj",
+      "packagesPath": "C:\\Users\\izzig\\.nuget\\packages\\",
+      "outputPath": "C:\\!files\\_C#\\Глава 1 и 2\\1_Условные конструкции\\3_Literaly\\Literaly\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\73831\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\izzig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "netcoreapp3.1": {
@@ -51,7 +62,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\RuntimeIdentifierGraph.json"
       }
     }
   }
