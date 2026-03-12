@@ -1,1 +1,1 @@
-WriteLine
+WriteLine method
