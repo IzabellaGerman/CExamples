@@ -1,0 +1,13 @@
+C:\!files\C#\8_operation2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\!files\C#\8_operation2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\!files\C#\8_operation2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\!files\C#\8_operation2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\!files\C#\8_operation2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\!files\C#\8_operation2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\!files\C#\8_operation2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\!files\C#\8_operation2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\!files\C#\8_operation2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\!files\C#\8_operation2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\!files\C#\8_operation2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\!files\C#\8_operation2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\!files\C#\8_operation2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
