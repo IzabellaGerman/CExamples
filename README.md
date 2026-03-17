@@ -1,1 +1,1 @@
-while cycle; find rhe most common devisor
+while cycle; find the most common divisor
