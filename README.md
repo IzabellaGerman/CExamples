@@ -1,1 +1,1 @@
-Factorial
+3 Factorial
